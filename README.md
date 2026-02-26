@@ -8,6 +8,8 @@
 - [Python import는 파일 실행이다 — __pycache__가 필요한 이유](python/pycache-import-caching.md)
 - [가상환경(venv)은 가상머신(VM)이 아니다](python/venv-is-not-vm.md)
 - [Python 실행 전체 과정 — .py에서 결과까지](python/execution-pipeline.md)
+- [AST, 바이트코드, PVM — Python 실행의 3단계](python/ast-bytecode-pvm.md)
+- [Python은 왜 느리게 설계됐는가](python/why-python-is-slow.md)
 
 ## Testing
 
