@@ -10,6 +10,7 @@
 - [Python 실행 전체 과정 — .py에서 결과까지](python/execution-pipeline.md)
 - [AST, 바이트코드, PVM — Python 실행의 3단계](python/ast-bytecode-pvm.md)
 - [Python은 왜 느리게 설계됐는가](python/why-python-is-slow.md)
+- [Python 타입 힌트는 TypeScript와 다르다](python/type-hints-vs-typescript.md)
 
 ## Testing
 
@@ -19,3 +20,4 @@
 
 - [VS Code pytest discovery가 SIGTERM으로 실패할 때](tooling/vscode-pytest-discovery.md)
 - [ruff 린트 실행과 자동 수정](tooling/ruff-lint-autofix.md)
+- [Python 프로젝트에서 자동 생성되는 파일들](tooling/python-auto-generated-files.md)
