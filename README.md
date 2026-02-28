@@ -21,3 +21,4 @@
 - [VS Code pytest discovery가 SIGTERM으로 실패할 때](tooling/vscode-pytest-discovery.md)
 - [ruff 린트 실행과 자동 수정](tooling/ruff-lint-autofix.md)
 - [Python 프로젝트에서 자동 생성되는 파일들](tooling/python-auto-generated-files.md)
+- [uv — Rust로 만든 Python 패키지 매니저](tooling/uv-python-package-manager.md)
